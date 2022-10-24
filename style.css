@@ -23,11 +23,12 @@ img{
     padding: 13px;
 }
 
-h3{
+h1 {
     text-align: center;
     color: hsl(218, 44%, 22%);
     margin: 0;
-    padding:0 25px;
+    padding: 0 25px;
+    font-size: 1.2em;
 }
 
 p{
