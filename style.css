@@ -9,16 +9,16 @@ body{
 }
 
 .qr{
-    height: 425px;
-    width: calc(250px + 26px);
+    height: 450px;
+    width: calc(265px + 26px);
     border-radius: 12px;
     background: hsl(0, 0%, 100%);
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.1);
 }
 
 img{
-    width: 250px;
-    height: 250px;
+    width: 265px;
+    height: 265px;
     border-radius:20px;
     padding: 13px;
 }
@@ -27,7 +27,7 @@ h3{
     text-align: center;
     color: hsl(218, 44%, 22%);
     margin: 0;
-    padding:0 15px;
+    padding:0 25px;
 }
 
 p{
